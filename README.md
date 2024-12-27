@@ -23,8 +23,8 @@
 📱 Контакты 
 ----
 
-[![Image]([https://img.icons8.com/?size=100&id=S7SmOe7EhSRE&format=png&color=000000](https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000))](https://web.telegram.org)
-[![Image](https://img.icons8.com/?size=100&id=s5qsgujjlJYX&format=png&color=000000)](https://vk.com)
+[![Image](https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000)](https://web.telegram.org)
+[![Image](https://img.icons8.com/?size=100&id=114452&format=png&color=000000)](https://vk.com)
 
 
 
